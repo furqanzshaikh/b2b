@@ -1,0 +1,20 @@
+
+Home
+https://consua-nextjs.vercel.app/
+
+----------
+About Us
+https://consua-nextjs.vercel.app/about-us
+
+----------
+Services 
+https://consua-nextjs.vercel.app/services-details/1
+
+----------
+
+Meet Our Team (Optional)
+https://consua-nextjs.vercel.app/team
+
+----------
+Contact Us
+https://consua-nextjs.vercel.app/contact-us

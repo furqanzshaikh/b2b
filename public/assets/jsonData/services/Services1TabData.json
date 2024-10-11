@@ -1,0 +1,182 @@
+[
+    {
+        "id": 1,
+        "tabClass": "show active",
+        "tabId": "tab1",
+        "ariaLabelled": "nav-id-1",
+        "tabData": [
+            {
+                "id": 1,
+                "animationDelay": 0,
+                "icon": "flaticon-personal",
+                "title": "Account Selection",
+                "text": "Using criteria like firmographics, technographics, intent data, and existing customer data to identify high-value accounts"
+            },
+            {
+                "id": 2,
+                "animationDelay": "",
+                "icon": "flaticon-career",
+                "title": "Personalized Campaigns",
+                "text": "Creating tailored content that addresses the specific needs, pain points, and interests of each target account."
+            },
+            {
+                "id": 3,
+                "animationDelay": "",
+                "icon": "flaticon-group",
+                "title": "Sales and Marketing Alignment",
+                "text": "Ensuring close collaboration between sales and marketing teams to align on goals, strategies, and execution."
+
+            },
+            {
+                "id": 4,
+                "animationDelay": "",
+                "icon": "flaticon-solution-5",
+                "title": "Customer Experience Focus",
+                "text": "Ensuring a cohesive and personalized experience for target accounts throughout their entire journey, from initial engagement."
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "tabClass": "",
+        "tabId": "tab2",
+        "ariaLabelled": "nav-id-2",
+        "tabData": [
+            {
+                "id": 1,
+                "animationDelay": 0,
+                "icon": "flaticon-business-trip",
+                "title": "Target Account Identification",
+                "text": " Defining the ideal customer based on firmographics, industry, company size, revenue, and other relevant criteria."
+            },
+            {
+                "id": 2,
+                "animationDelay": "",
+                "icon": "flaticon-online-store",
+                "title": "Quality Assurance",
+                "text": " Continuously refining outreach strategies, messaging, and processes based on performance data and feedback."
+            },
+            {
+                "id": 3,
+                "animationDelay": "",
+                "icon": "flaticon-funds",
+                "title": "Outreach Strategy",
+                "text": " Utilizing a combination of email, phone calls, social media, and direct mail to engage with prospects."
+            },
+            {
+                "id": 4,
+                "animationDelay": "",
+                "icon": "flaticon-career",
+                "title": "Technology and Tools",
+                "text": "Leveraging tools like LinkedIn Sales Navigator, email marketing platforms, and dialing software to streamline the outreach process."
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "tabClass": "",
+        "tabId": "tab3",
+        "ariaLabelled": "nav-id-3",
+        "tabData": [
+            {
+                "id": 1,
+                "animationDelay": 0,
+                "icon": "flaticon-budget",
+                "title": "Strategy Development",
+                "text": "Defining clear goals for the syndication campaign, such as lead generation, brand awareness, or traffic increase."
+            },
+            {
+                "id": 2,
+                "animationDelay": "",
+                "icon": "flaticon-money-1",
+                "title": "Content Preparation",
+                "text": "Creating dedicated landing pages for each content piece to capture leads and provide additional information."
+            },
+            {
+                "id": 3,
+                "animationDelay": "",
+                "icon": "flaticon-funds",
+                "title": "Platform Selection",
+                "text": "Establishing partnerships with reputable syndication platforms to ensure high-quality placements and reach."
+            },
+            {
+                "id": 4,
+                "animationDelay": "",
+                "icon": "flaticon-world-globe",
+                "title": "Lead Generation and Management",
+                "text": " Implementing lead capture forms on landing pages to collect contact information from interested prospects."
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "tabClass": "",
+        "tabId": "tab4",
+        "ariaLabelled": "nav-id-4",
+        "tabData": [
+            {
+                "id": 1,
+                "animationDelay": 0,
+                "icon": "flaticon-budget",
+                "title": "Strategy Development",
+                "text": " Define clear objectives such as increasing website traffic, boosting conversion rates, and generating qualified leads."
+            },
+            {
+                "id": 2,
+                "animationDelay": "",
+                "icon": "flaticon-money-1",
+                "title": "Content Marketing",
+                "text": "Optimize content for search engines to improve organic visibility and attract more visitors to your website."
+            },
+            {
+                "id": 3,
+                "animationDelay": "",
+                "icon": "flaticon-funds",
+                "title": "Website Optimization",
+                "text": "Create dedicated landing pages for lead magnets with compelling headlines, engaging content, and clear calls-to-action (CTAs)."
+            },
+            {
+                "id": 4,
+                "animationDelay": "",
+                "icon": "flaticon-world-globe",
+                "title": "Search Engine Marketing",
+                "text": "  Run targeted PPC campaigns on platforms like Google Ads and Bing Ads to attract high-intent visitors to your website."
+            }
+        ]
+    },{
+        "id": 5,
+        "tabClass": "",
+        "tabId": "tab5",
+        "ariaLabelled": "nav-id-5",
+        "tabData": [
+            {
+                "id": 1,
+                "animationDelay": 0,
+                "icon": "flaticon-budget",
+                "title": "Objective and KPI Definition",
+                "text": " Define specific objectives such as the number of leads, quality of leads, conversion rates, and overall ROI."
+            },
+            {
+                "id": 2,
+                "animationDelay": "",
+                "icon": "flaticon-money-1",
+                "title": "Lead Qualification Criteria",
+                "text": " Develop clear lead qualification criteria, such as budget, authority, need, and timeline (BANT)."
+            },
+            {
+                "id": 3,
+                "animationDelay": "",
+                "icon": "flaticon-funds",
+                "title": "Technology and Tools",
+                "text": "Integrate with a CRM system like Salesforce or HubSpot to track lead data and measure performance."
+            },
+            {
+                "id": 5,
+                "animationDelay": "",
+                "icon": "flaticon-world-globe",
+                "title": "Analytics and Reporting",
+                "text": " Provide detailed reports on key metrics such as lead volume, conversion rates, cost per lead, and overall ROI."
+            }
+        ]
+    }
+]

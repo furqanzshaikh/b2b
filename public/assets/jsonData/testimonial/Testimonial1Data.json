@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "ratings": 5,
+        "title": "The best service ever",
+        "text": "Working with DigiIntel on our lead generation efforts has been a game-changer. Their targeted approach and high-quality leads have significantly boosted our sales pipeline. We've seen a 40% increase in qualified leads and a 25% higher conversion rate since partnering with them. Their team is responsive, professional, and always goes the extra mile to understand our business needs.",
+        "name": "TechSolutions Inc.",
+        "designation": ""
+    },
+    {
+        "id": 2,
+        "ratings": 5,
+        "title": "Awesome Business opportunities",
+        "text": "DigiIntel's content syndication service has expanded our reach and visibility in the market. The targeted distribution of our whitepapers and case studies has driven a significant increase in inbound leads. We particularly appreciate their detailed performance reports, which have helped us optimize our content strategy. Our brand recognition has grown, and we're seeing tangible results in our lead generation efforts.",
+        "name": "InnovateTech",
+        "designation": ""
+    },
+    {
+        "id": 3,
+        "ratings": 5,
+        "title": "The best service ever",
+        "text": "The ABM campaigns run by DigiIntel have transformed our approach to marketing. Their personalized and data-driven strategies have helped us engage with key accounts more effectively. The alignment between our sales and marketing teams has never been better, and we've closed several high-value deals as a direct result of their efforts. DigiIntel's expertise and dedication are evident in everything they do. name",
+        "name":"Enterprise Solutions Group",
+        "designation": ""
+    }
+]

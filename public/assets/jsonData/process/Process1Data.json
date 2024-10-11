@@ -1,0 +1,26 @@
+[
+    {
+        "id": "1",
+        "thumb": "3.webp",
+        "activeClass": "active",
+        "steps": "01",
+        "title": "Lead Generation",
+        "text": "Use AI to identify potential buyers ready to purchase."
+    },
+    {
+        "id": "2",
+        "thumb": "6.webp",
+        "activeClass": "",
+        "steps": "02",
+        "title": "Engage & Qualify",
+        "text": "Connect and assess leads to ensure they’re suitable."
+    },
+    {
+        "id": "3",
+        "thumb": "5.webp",
+        "activeClass": "",
+        "steps": "03",
+        "title": "Convert & Nurture",
+        "text": "Arrange meetings and maintain communication to secure customers."
+    }
+]
